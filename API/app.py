@@ -3,7 +3,7 @@ import os
 
 app = Flask(__name__)
 
-json_directory = r'D:\Internship NARLABS\Weather Agent\Json_files'
+json_directory = r'D:\Internship \Weather Agent\Json_files'
 
 @app.route('/api/risk', methods=['GET'])
 def index():
