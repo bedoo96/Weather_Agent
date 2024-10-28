@@ -1,0 +1,83 @@
+{
+    "location": "San Francisco",
+    "date": "2024-08-06",
+    "risk_levels": {
+      "flood": "Moderate",
+      "earthquake": "Low",
+      "landslide": "Low",
+      "fire": "High",
+      "storm": "Moderate"
+    },
+    "advisories": [
+      {
+        "type": "Flood",
+        "message": "Moderate risk of flooding in low-lying areas. Avoid travel if possible."
+      },
+      {
+        "type": "Earthquake",
+        "message": "No significant earthquake risk today. Ensure emergency kits are stocked."
+      },
+      {
+        "type": "Landslide",
+        "message": "Low risk of landslides. Monitor weather conditions."
+      },
+      {
+        "type": "Fire",
+        "message": "High fire risk due to dry conditions and strong winds. Avoid open flames and outdoor burning."
+      },
+      {
+        "type": "Storm",
+        "message": "Moderate risk of storms. Secure loose outdoor items and be prepared for possible power outages."
+      }
+    ],
+    "historical_data": [
+      {
+        "date": "2024-08-05",
+        "flood_risk": "Low",
+        "earthquake_risk": "Low",
+        "landslide_risk": "Low",
+        "fire_risk": "Moderate",
+        "storm_risk": "Low"
+      },
+      {
+        "date": "2024-08-04",
+        "flood_risk": "Low",
+        "earthquake_risk": "Low",
+        "landslide_risk": "Low",
+        "fire_risk": "Moderate",
+        "storm_risk": "Low"
+      },
+      {
+        "date": "2024-08-03",
+        "flood_risk": "Low",
+        "earthquake_risk": "Low",
+        "landslide_risk": "Low",
+        "fire_risk": "Moderate",
+        "storm_risk": "Low"
+      }
+    ],
+    "emergency_contacts": [
+      {
+        "type": "Fire Department",
+        "phone": "911",
+        "website": "https://www.sanfranciscofire.gov"
+      },
+      {
+        "type": "Police Department",
+        "phone": "911",
+        "website": "https://www.sanfranciscopolice.org"
+      },
+      {
+        "type": "Red Cross",
+        "phone": "1-800-RED-CROSS",
+        "website": "https://www.redcross.org"
+      }
+    ],
+    "preparedness_tips": [
+      "Prepare an emergency kit with food, water, and medical supplies.",
+      "Create an emergency plan with your family.",
+      "Stay informed through local news and weather updates.",
+      "Secure your home and property to prevent damage."
+    ]
+  }
+  

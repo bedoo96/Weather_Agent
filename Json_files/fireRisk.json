@@ -1,0 +1,89 @@
+{
+    "location": "San Francisco",
+    "date": "2024-08-06",
+    "fire_risk_level": "High",
+    "fire_bans": [
+      {
+        "type": "Open burning",
+        "status": "Banned",
+        "details": "No open burning is allowed due to high fire risk."
+      },
+      {
+        "type": "Fireworks",
+        "status": "Banned",
+        "details": "Fireworks are banned to prevent potential fires."
+      },
+      {
+        "type": "Campfires",
+        "status": "Banned",
+        "details": "Campfires are prohibited in all outdoor areas."
+      }
+    ],
+    "fire_alerts": [
+      {
+        "type": "Red Flag Warning",
+        "message": "Critical fire weather conditions expected. Avoid any outdoor activities that could spark a fire."
+      },
+      {
+        "type": "Fire Weather Watch",
+        "message": "Potential for extreme fire behavior. Stay tuned for updates and follow local guidelines."
+      }
+    ],
+    "historical_data": [
+      {
+        "date": "2024-08-05",
+        "fire_risk_level": "Moderate",
+        "fire_bans": [
+          {
+            "type": "Open burning",
+            "status": "Allowed",
+            "details": "Open burning is allowed with caution."
+          },
+          {
+            "type": "Fireworks",
+            "status": "Allowed",
+            "details": "Fireworks are allowed with restrictions."
+          }
+        ]
+      },
+      {
+        "date": "2024-08-04",
+        "fire_risk_level": "Moderate",
+        "fire_bans": [
+          {
+            "type": "Open burning",
+            "status": "Allowed",
+            "details": "Open burning is allowed with caution."
+          },
+          {
+            "type": "Fireworks",
+            "status": "Allowed",
+            "details": "Fireworks are allowed with restrictions."
+          }
+        ]
+      },
+      {
+        "date": "2024-08-03",
+        "fire_risk_level": "Low",
+        "fire_bans": [
+          {
+            "type": "Open burning",
+            "status": "Allowed",
+            "details": "Open burning is allowed."
+          },
+          {
+            "type": "Fireworks",
+            "status": "Allowed",
+            "details": "Fireworks are allowed."
+          }
+        ]
+      }
+    ],
+    "fire_preparedness_tips": [
+      "Create a defensible space around your home by clearing flammable vegetation.",
+      "Keep a hose and bucket of water handy when working outdoors.",
+      "Report any suspicious activity that could potentially start a fire.",
+      "Educate yourself on fire safety and emergency procedures."
+    ]
+  }
+  

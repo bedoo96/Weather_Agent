@@ -1,0 +1,140 @@
+{
+    "location": "San Francisco Bay",
+    "date": "2024-08-06",
+    "water_levels": [
+      {
+        "time": "00:00",
+        "level_cm": 120
+      },
+      {
+        "time": "01:00",
+        "level_cm": 121
+      },
+      {
+        "time": "02:00",
+        "level_cm": 122
+      },
+      {
+        "time": "03:00",
+        "level_cm": 123
+      },
+      {
+        "time": "04:00",
+        "level_cm": 124
+      },
+      {
+        "time": "05:00",
+        "level_cm": 125
+      },
+      {
+        "time": "06:00",
+        "level_cm": 126
+      },
+      {
+        "time": "07:00",
+        "level_cm": 127
+      },
+      {
+        "time": "08:00",
+        "level_cm": 128
+      },
+      {
+        "time": "09:00",
+        "level_cm": 129
+      },
+      {
+        "time": "10:00",
+        "level_cm": 130
+      },
+      {
+        "time": "11:00",
+        "level_cm": 131
+      },
+      {
+        "time": "12:00",
+        "level_cm": 132
+      },
+      {
+        "time": "13:00",
+        "level_cm": 133
+      },
+      {
+        "time": "14:00",
+        "level_cm": 134
+      },
+      {
+        "time": "15:00",
+        "level_cm": 135
+      },
+      {
+        "time": "16:00",
+        "level_cm": 136
+      },
+      {
+        "time": "17:00",
+        "level_cm": 137
+      },
+      {
+        "time": "18:00",
+        "level_cm": 138
+      },
+      {
+        "time": "19:00",
+        "level_cm": 139
+      },
+      {
+        "time": "20:00",
+        "level_cm": 140
+      },
+      {
+        "time": "21:00",
+        "level_cm": 141
+      },
+      {
+        "time": "22:00",
+        "level_cm": 142
+      },
+      {
+        "time": "23:00",
+        "level_cm": 143
+      },
+      {
+        "time": "24:00",
+        "level_cm": 144
+      }
+    ],
+    "average_level_cm": 131,
+    "maximum_level_cm": 144,
+    "minimum_level_cm": 120,
+    "historical_data": [
+      {
+        "date": "2024-08-05",
+        "average_level_cm": 130,
+        "maximum_level_cm": 142,
+        "minimum_level_cm": 119
+      },
+      {
+        "date": "2024-08-04",
+        "average_level_cm": 128,
+        "maximum_level_cm": 140,
+        "minimum_level_cm": 118
+      },
+      {
+        "date": "2024-08-03",
+        "average_level_cm": 126,
+        "maximum_level_cm": 138,
+        "minimum_level_cm": 117
+      }
+    ],
+    "alerts": [
+      {
+        "type": "Flood Warning",
+        "message": "Water levels are expected to rise significantly. Flooding is possible in low-lying areas."
+      },
+      {
+        "type": "Tide Advisory",
+        "message": "High tides are expected. Take precautions if you are near the water."
+      }
+    ]
+  }
+  
