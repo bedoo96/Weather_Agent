@@ -55,9 +55,4 @@ class ContextRefiner:
         
         return rephrased_prompt
 
-if __name__ == "__main__":
-    user_input = "Give me an analysis information for 18 july 2024 about weather in Saint Francisco "
-    #Example 1"propose a new approach from all you knows about Ai agent using RAG, langchain for this system"
-    refiner = ContextRefiner()
-    refined_prompt1 = refiner.refine_context(user_input)
-    print(refined_prompt1)
+
